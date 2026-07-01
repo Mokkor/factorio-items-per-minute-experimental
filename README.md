@@ -1,9 +1,7 @@
-This mod is a fork from https://github.com/TheTorukMakto/factorio-assembler-craft-rates.
+This mod is a fork from https://github.com/SupanatK/factorio-items-per-minute
 
-I only fork to make it compatible with space age.
+Forked to make it compatible with experimental 2.1 version
 
-All credit go to the original creator of the mod TheTorukMakto
+Only change is factorio_version from 2.0 to 2.1 in info.json, so game allows this mod to be run
 
-Special thanks to following people for contribution
-- UltraJohn
-- snipervld: https://github.com/snipervld
+All credits go to SupanatK for making mod compatible with Space Age and to the original creator of the mod TheTorukMakto
