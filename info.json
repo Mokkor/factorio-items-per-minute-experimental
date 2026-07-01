@@ -1,10 +1,10 @@
 {
-    "name": "productions-per-minute",
-    "version": "0.4.0",
-    "title": "Productions Per Minute",
-    "author": "KeiraFlamefox",
-    "factorio_version": "2.0",
-    "dependencies": ["base >= 2.0"],
-    "contact": "Please raise issue on github or in factorio mod page.",
-    "description": "Assemblers and Furnaces show the maximum production rate of the currently selected recipe in their GUI."
+    "name": "productions-per-minute-experimental",
+    "version": "1.0",
+    "title": "Productions Per Minute Experimental 2.1 Fork",
+    "author": "Mokkor",
+    "factorio_version": "2.1",
+    "dependencies": ["base >= 2.1"],
+    "contact": "For issues contact original author SentryImba on their mod page - https://mods.factorio.com/mod/productions-per-minute/discussion/6a44307d1089e2fb8f7ff729",
+    "description": "Assemblers and Furnaces have UI to show production rate per second/minute/hour instead of just per minute."
 }
